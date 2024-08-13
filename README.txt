@@ -1,4 +1,4 @@
-* README for GPA Calculator *
+** README for GPA Calculator **
 
 This is the README file for the GPA Calculator app. It's a great place to write
 down some notes about how your app works. For starters, here is some information
